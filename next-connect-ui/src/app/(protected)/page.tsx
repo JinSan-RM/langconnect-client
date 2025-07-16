@@ -135,7 +135,7 @@ export default function MainPage() {
               <ul className="space-y-3">
                 <li>
                   <a
-                    href="https://github.com/teddynote-lab/LangConnect-Client"
+                    href="https://github.com/JinSan-RM/LangConnect-Client"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-gray-100"
